@@ -8,7 +8,7 @@ import org.json.JSONObject;
 import spark.utils.StringUtils;
 
 /**
- * 基于Spark web的诸葛智能触达webhook示例
+ * 基于Spark web的诸葛智能触达自定义webhook示例
  */
 public class ZhugeWebhookDemo {
 
